@@ -1,0 +1,4 @@
+[
+  "tests/test_main.py::test_add",
+  "tests/test_main.py::test_subtract"
+]
